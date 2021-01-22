@@ -4,55 +4,169 @@
     
         
         <url>
-            <loc>wilsonip.github.io/posts/my-forth-post/</loc>
-            <lastmod>2021-01-22T17:04:13+08:00</lastmod>
+            <loc>/</loc>
+            <lastmod>2030-06-01T13:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/posts/</loc>
-            <lastmod>2021-01-22T17:04:13+08:00</lastmod>
+            <loc>/talk/example-talk/</loc>
+            <lastmod>2030-06-01T13:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/</loc>
-            <lastmod>2021-01-22T17:04:13+08:00</lastmod>
+            <loc>/event/</loc>
+            <lastmod>2030-06-01T13:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/posts/my-third-post/</loc>
-            <lastmod>2021-01-22T16:44:41+08:00</lastmod>
+            <loc>/slides/</loc>
+            <lastmod>2019-02-05T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/posts/my-second-post/</loc>
-            <lastmod>2021-01-22T16:35:12+08:00</lastmod>
+            <loc>/slides/example/</loc>
+            <lastmod>2019-02-05T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/posts/my-first-post/</loc>
-            <lastmod>2021-01-22T16:22:41+08:00</lastmod>
+            <loc>/tag/deep-learning/</loc>
+            <lastmod>2016-04-27T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/categories/</loc>
+            <loc>/project/example/</loc>
+            <lastmod>2016-04-27T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>wilsonip.github.io/tags/</loc>
+            <loc>/project/</loc>
+            <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/tags/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc></loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/tag/academic/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/categories/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/category/demo/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc></loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/post/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/post/getting-started/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc></loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+            <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/publication-type/1/</loc>
+            <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/publication/example/</loc>
+            <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/publication_types/</loc>
+            <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/publication/</loc>
+            <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc></loc>
+            <lastmod>2013-07-01T00:00:00+00:00</lastmod>
         </url>
         
     
